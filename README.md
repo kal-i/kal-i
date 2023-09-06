@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kal-i
+<!--- 👋 Hi, I’m @kal-i
 - 👀 I’m interested in developing desktop and mobile applications.
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning Flutter. --->
 
 <!---
 kal-i/kal-i is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
