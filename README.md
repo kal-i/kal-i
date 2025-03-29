@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm John Paul</h1>
+<h1 align="center">Hello World! I'm JP</h1>
 <h3 align="center">An Aspiring Software Developer passionate about desktop and mobile development.</h3>
 
 - 🔭 I’m currently working on [my portfolio project using Flutter](https://github.com/kal-i/portfolio.git)
