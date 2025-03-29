@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my portfolio project using Flutter](https://github.com/kal-i/portfolio.git)
 
-- 🌱 I’m currently learning **clean architecture, state management, and backend development with Flutter and Dart.**
+- 🌱 I’m currently learning backend development with **js/ts, node, prisma, and express.**
 
 - ⚡ Fun fact **I like organizing my codes into objects.**
 
