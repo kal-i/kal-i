@@ -1,8 +1,8 @@
-# 🍡 Hello, World! 🍡  
+# Hello, World!
 
 Aspiring Software Developer passionate about desktop and mobile development.  
 
-- 🔭 Working on [my portfolio using Flutter](https://github.com/kal-i/portfolio.git)  
+- 🔭 Working on [my portfolio using pure HTML and CSS](https://github.com/kal-i/johnpaulmaceres.github.io)  
 - 🌱 Learning backend development with **Java Spring Boot**  
 
 ### 🔨 Languages & Tools  
