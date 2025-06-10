@@ -1,9 +1,11 @@
-# Hello, World!
+Hi, I’m John Paul - though in the digital world, I go by *kali*. I'm an aspiring developer based in Legazpi, Philippines.
 
-Aspiring Software Developer passionate about desktop and mobile development.  
+During my academic years, I built a few projects, some are full-stack, others are either frontend or backend focused with core technologies like Flutter (Dart), Java, .NET (C#), PostgreSQL, and MS SQL Server. While I'm still figuring out where I thrive most, I enjoy exploring things out of curiosity and my desire to understand how it works. 
 
-- 🔭 Working on [my portfolio using pure HTML and CSS](https://github.com/kal-i/johnpaulmaceres.github.io)  
-- 🌱 Learning backend development with **Java Spring Boot**  
+Outside of coding, I spend time reflecting on my surroundings, thoughts, and decisions. It’s not the kind of reflection that always ends up in a journal, but one lives in scattered thoughts and quiet moments of pause. It helps me stay grounded and aware of where I am and where I want to be.
 
-### 🔨 Languages & Tools  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kal-i&layout=compact&theme=transparent&langs_count=6)  
+Currently, I’m rekindling my knowledge of Java and tapping into unfamiliar territory with Spring Boot.
+
+In most cases, I try to blend my work with minimalism, artistry, and poetry - even though I'm barely good at it.
+
+Portfolio: [https://github.com/kal-i/johnpaulmaceres.github.io](https://github.com/kal-i/johnpaulmaceres.github.io)
