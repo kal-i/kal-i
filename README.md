@@ -1,3 +1,3 @@
-A recent BS Information Technology graduate who learns best through hands-on experience. I've worked on both desktop and mobile applications using Flutter (Dart), Java, C#, and SQL (PostgreSQL). Recently, I've been exploring clean architecture with Flutter and back-end development with Java Spring Boot.
+I'm a recent BS Information Technology graduate from STI College Legazpi. I have experience building desktop and mobile applications using Flutter (Dart), Java, C#, and PostgreSQL. Lately, I've been exploring clean architecture in Flutter and back-end development with Spring Boot.
 
 Portfolio: [https://kal-i.github.io](https://kal-i.github.io)
