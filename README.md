@@ -1,3 +1,22 @@
-I'm a recent BS Information Technology graduate from STI College Legazpi. I have experience building desktop and mobile applications using Flutter (Dart), Java, C#, and PostgreSQL. Lately, I've been exploring clean architecture in Flutter and back-end development with Spring Boot.
+```bash
+$ whoami
+> I like making things simple, yet complicated at the same time
+> I prefer strongly typed languages with solid support for OOP
+> I'd rather take boilerplate that brings structure and clear intent over layers of abstraction
 
-Portfolio: [https://kal-i.github.io](https://kal-i.github.io)
+$ whatyoufindhere
+> Unfinished projects
+> Random experiments
+> A few things I've really put effort into
+
+$ whatiworkwith
+> languages: Dart, Java, SQL
+> libraries & frameworks: Flutter, Dart Frog, Spring Boot
+> databases: PostgreSQL, H2
+> tools & others: Git, GitHub, Postman, HTTPie, Figma
+
+$ bye
+> This GitHub is where I learn, experiment, and build
+> Thanks for dropping by! >.<
+```
+![Coding gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3VubjdtcXF6eGY4N2hiOWZmYnlvZ2FobTRmZTh2Mzlpb252bzV0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif)
