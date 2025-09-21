@@ -16,7 +16,6 @@ $ whatiworkwith
 > tools & others: Git, GitHub, Postman, HTTPie, Figma
 
 $ bye
-> This GitHub is where I learn, experiment, and build
 > Thanks for dropping by! >.<
 ```
 ![Coding gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3VubjdtcXF6eGY4N2hiOWZmYnlvZ2FobTRmZTh2Mzlpb252bzV0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif)
