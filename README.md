@@ -1,8 +1,8 @@
 ```bash
 $ whoami
-> I like making things simple, yet complicated at the same time
-> I prefer strongly typed languages with solid support for OOP
-> I'd rather take boilerplate that brings structure and clear intent over layers of abstraction
+> Mobile & Backend Builder
+> OOP & Clean Architecture enthusiast
+> Lover of simplicity and minimalism
 
 $ whatyoufindhere
 > Unfinished projects
