@@ -3,19 +3,4 @@ $ whoami
 > Mobile & Backend Builder
 > OOP & Clean Architecture enthusiast
 > Lover of simplicity and minimalism
-
-$ whatyoufindhere
-> Unfinished projects
-> Random experiments
-> A few things I've really put effort into
-
-$ whatiworkwith
-> languages: Dart, Java, SQL
-> libraries & frameworks: Flutter, Dart Frog, Spring Boot
-> databases: PostgreSQL, H2
-> tools & others: Git, GitHub, Postman, HTTPie, Figma
-
-$ bye
-> Thanks for dropping by! >.<
 ```
-![Coding gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3VubjdtcXF6eGY4N2hiOWZmYnlvZ2FobTRmZTh2Mzlpb252bzV0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif)
